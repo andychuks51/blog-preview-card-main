@@ -52,8 +52,8 @@ I will continue to refine my understanding in creating more responsive design go
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@andy.chuks51@gmail.com](https://www.frontendmentor.io/profile/andychuks51)
+- Twitter - [@drew_techie](https://x.com/drew_techie?t=OLuFzJqb8nFG57BscrejOA&s=09)
 
 ## Acknowledgments
 
